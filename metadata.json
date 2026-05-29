@@ -1,0 +1,6 @@
+{
+  "name": "FloraSense",
+  "description": "Smart plant care assistant featuring AI species identification, disease diagnosis with confidence scores, adaptive watering reminders, pet/children toxicity alerts, and offline garden tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
